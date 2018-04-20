@@ -1,3 +1,5 @@
+0.DiSAN: Attention combined with Fusion Gate or highway layer can rival RNN/LSTM/GRU.
+
 1.Neural Tensor Network
 
 2.Multi-perspective Matching
