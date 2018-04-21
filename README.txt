@@ -8,3 +8,5 @@ What is the differnce between 1 and 2?
 
 Recently I've read two papers, all involve circular correlation and circular convolution operations,
 what are these?
+
+0.£¨½ô¼±£©Distance-based Self-Attention Network for Natural Language Inference
