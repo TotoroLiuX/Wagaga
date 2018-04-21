@@ -1,4 +1,4 @@
-0.DiSAN: Attention combined with Fusion Gate or highway layer can rival RNN/LSTM/GRU.
+ï»¿0.DiSAN: Attention combined with Fusion Gate or highway layer can rival RNN/LSTM/GRU.
 
 1.Neural Tensor Network
 
@@ -9,4 +9,4 @@ What is the differnce between 1 and 2?
 Recently I've read two papers, all involve circular correlation and circular convolution operations,
 what are these?
 
-0.£¨½ô¼±£©Distance-based Self-Attention Network for Natural Language Inference
+0.(ç´§æ€¥)Distance-based Self-Attention Network for Natural Language Inference
